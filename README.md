@@ -1,5 +1,7 @@
 # Vulkan examples and demos
 
+[![Join the chat at https://gitter.im/linkedinyou/Vulkan](https://badges.gitter.im/linkedinyou/Vulkan.svg)](https://gitter.im/linkedinyou/Vulkan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <img src="./images/vulkanlogoscene.png" alt="Vulkan demo scene" height="256px">
 
 Assorted C++ examples for [Vulkan(tm)](https://www.khronos.org/vulkan/), the new graphics and compute API from Khronos.
